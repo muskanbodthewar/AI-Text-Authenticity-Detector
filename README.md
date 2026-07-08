@@ -52,14 +52,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 📸 Application Preview
-
-*Add screenshots of your application here.*
-
----
-
 ## 👩‍💻 Author
 
 **Muskan Bodthewar**
